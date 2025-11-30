@@ -1,5 +1,6 @@
 # 🚦 Road Accident Analytics Dashboard
 
+![Road Accident Dashboard](dashboard.png) 
 An **Excel Road Accident Analytics Dashboard** that transforms raw accident data into actionable insights, revealing critical patterns in road safety across time, geography, and environmental conditions.
 
 ---
